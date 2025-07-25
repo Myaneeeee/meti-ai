@@ -8,3 +8,4 @@ mediapipe
 matplotlib
 Pillow
 gunicorn
+flask_cors
